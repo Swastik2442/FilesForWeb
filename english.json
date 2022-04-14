@@ -1,0 +1,244 @@
+{
+    "figure-of-speech": {
+        "Simile": {
+            "definition": "a word or phrase that compares something to something else, using the words ‘like’ or ‘as’",
+            "example": {
+                "1": "You were as brave as a lion.",
+                "2": "They fought like cats and dogs."
+            },
+            "description": ""
+        },
+        "Metaphor": {
+            "definition": "a word or phrase that is used in an imaginative way to show that somebody/something has the same qualities as another thing",
+            "example": {
+                "1": "I'm drowning in a sea of grief.",
+                "2": "I'm feeling blue."
+            },
+            "description": ""
+        },
+        "Allegory": {
+            "definition": "a story, play, picture, etc. in which each character or event is a symbol representing an idea or a quality",
+            "example": {
+                "1": "",
+                "2": ""
+            },
+            "description": "Example A: Biblical allegory invokes themes from the Bible, and often explores the struggle between good and evil. One example of Biblical allegory is C.S. Lewis’ The Chronicles of Narnia. The lion, Aslan, represents a Christ character, who is the rightful ruler of the kingdom of Narnia. Aslan sacrifices himself for Edmund, the Judas figure, and is resurrected to rule over Narnia once again.\nExample B: One of the best known allegories in classical literature is Plato’s Allegory of the Cave. In this story, Plato imagines people living in a cave, only ever seeing objects as shadows reflected on the wall from the light of a fire—rather than seeing the objects directly. Plato used the cave as a symbolic representation of how humans live in the world, contrasting reality versus our interpretation of it."
+        },
+        "Parable": {
+            "definition": "A short story that teaches life lessons or principles including fairy tales and narratives from religious texts",
+            "example": {
+                "1": "'Parable of the Sower' - Matthew 13:3-8",
+                "2": "'Wise and Foolish Builders' - Luke 6:47-49"
+            },
+            "description": ""
+        },
+        "Fable": {
+            "definition": "a short story that teaches a lesson (a moral) and that often has animals as the main characters",
+            "example": {
+                "1": "Aesop and the Ferryman",
+                "2": "Panchatantra"
+            },
+            "description": ""
+        },
+        "Oxymoron": {
+            "definition": "a phrase that combines two words that seem to be the opposite of each other.",
+            "example": {
+                "1": "She is pretty ugly.",
+                "2": "Parting is such sweet sorrow."
+            },
+            "description": ""
+        },
+        "Antithesis": {
+            "definition": "a figure of speech involving a seeming contradiction of ideas, words, clauses, or sentences within a balanced grammatical structure.",
+            "example": {
+                "1": "'That's one small step for man, one giant leap for mankind.' – Neil Armstrong. ",
+                "2": "'Many are called, but few are chosen.' - Matthew 22:14"
+            },
+            "description": ""
+        },
+        "Paradox": {
+            "definition": "a situation or statement with two or more parts that seem strange or impossible together.",
+            "example": {
+                "1": "Save money by spending it.",
+                "2": "If I know one thing, it's that I know nothing."
+            },
+            "description": ""
+        },
+        "Climax": {
+            "definition": "a figure of speech in which successive words, phrases, clauses or sentences are arranged in ascending order of importance.",
+            "example": {
+                "1": "'Look! Up in the sky! It's a bird! It's a plane! It's Superman!'",
+                "2": "Let a man acknowledge his obligations to himself, his family, his country, and his God."
+            },
+            "description": ""
+        },
+        "Anticlimax": {
+            "definition": "a figure of speech in which statements gradually descend in order of importance.",
+            "example": {
+                "1": "She is a great writer, a mother and a good humorist.",
+                "2": "He lost his family, his car and his cell phone."
+            },
+            "description": ""
+        },
+        "Epigram": {
+            "definition": "a short poem or phrase that expresses an idea in a clever or amusing way.",
+            "example": {
+                "1": "'No one can make you feel inferior without your consent.' – Eleanor Roosevelt",
+                "2": "'If we don’t end war, war will end us.' – HG Wells"
+            },
+            "description": ""
+        },
+        "Hyperbole": {
+            "definition": "a figure of speech that is an intentional exaggeration for emphasis or comic effect.",
+            "example": {
+                "1": "He's running faster than the wind.",
+                "2": "The shopping cost me a million dollars."
+            },
+            "description": ""
+        },
+        "Personification": {
+            "definition": "a figure of speech in which an idea or thing is given human attributes and/or feelings or is spoken of as if it were human.",
+            "example": {
+                "1": "Lightning danced across the sky.",
+                "2": "The wind howled in the night."
+            },
+            "description": ""
+        },
+        "Apostrophe": {
+            "definition": "a figure of speech in which a speaker directly addresses someone (or something) that is not present or cannot respond in reality.",
+            "example": {
+                "1": "Car, please get me to work today.",
+                "2": "Oh, trees, how majestic you are as you throw down your golden leaves."
+            },
+            "description": ""
+        },
+        "Imagery": {
+            "definition": "a figure of speech that uses vivid description that appeals to the readers' senses to create an image or idea in their head.",
+            "example": {
+                "1": "Glittering white, the blanket of snow-covered everything in sight and also blocked the street.",
+                "2": "His words felt like a dagger in my heart."
+            },
+            "description": ""
+        },
+        "Metonymy": {
+            "definition": "a figure of speech consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated.",
+            "example": {
+                "1": "Joe’s new ride was expensive. ",
+                "2": "When I came to visit my friend’s place, he offered me a cup."
+            },
+            "description": ""
+        },
+        "Synecdoche": {
+            "definition": "a figure of speech in which a part is made to represent the whole or vice versa",
+            "example": {
+                "1": "'I am at the peak of my career.'",
+                "2": "'Kansas City scored the winning touchdown.'"
+            },
+            "description": ""
+        },
+        "Epithet": {
+            "definition": "a figure of speech that describes a person, place, or object by accompanying or replacing it with a descriptive word or phrase.",
+            "example": {
+                "1": "In Homer’s Odyssey, Odysseus is repeatedly referred to as “many-minded,” Penelope as “prudent,” and Telemachus as “sound-minded.”",
+                "2": "The Sky-Candle was very bright today."
+            },
+            "description": ""
+        },
+        "Transferred Epithet": {
+            "definition": "a figure of speech that refers to the shifting or transfer of an epithet from its proper subject to another associated with it.",
+            "example": {
+                "1": "The ploughman homeward plods his weary way.",
+                "2": "The prisoner was transferred to the condemned cell."
+            },
+            "description": ""
+        },
+        "Irony": {
+            "definition": "a figure of speech in which contradictory statements or situations reveal a reality that is different from what appears to be true.",
+            "example": {
+                "1": "Entering a child’s messy room and saying “nice place you have here”.",
+                "2": "A t-shirt with a “Buy American” logo that is made in China"
+            },
+            "description": ""
+        },
+        "Sarcasm": {
+            "definition": "A form of verbal irony that mocks, ridicules, or expresses contempt.",
+            "example": {
+                "1": "Zombies eat brains. You’re safe.",
+                "2": "Ugliness can be fixed, stupidity is forever."
+            },
+            "description": ""
+        },
+        "Satire": {
+            "definition": "a literary device for the artful ridicule of folly or vice as a means of exposing or correcting it.",
+            "example": {
+                "1": "The minister is tested positive for fascism because he was stopping people to fight for their rights.",
+                "2": "Animal farm overthrows their human masters only to be ruled by senseless and greedy pigs."
+            },
+            "description": ""
+        },
+        "Euphemism": {
+            "definition": "a figure of speech commonly used to replace a word or phrase that is related to a concept which might make others uncomfortable.",
+            "example": {
+                "1": "Even after a month of treatment, he sadly passed away.",
+                "2": "He was well-off after selling his first company."
+            },
+            "description": ""
+        },
+        "Litotes": {
+            "definition": "a figure of speech featuring a phrase that utilizes negative wording or terms to express a positive assertion or statement.",
+            "example": {
+                "1": "The novel is not bad.",
+                "2": "This is no ordinary lamp!"
+            },
+            "description": ""
+        },
+        "Onomatopoeia": {
+            "definition": "a word or phrase that imitates the natural sounds of a thing.",
+            "example": {
+                "1": "The buzzing bee flew away.",
+                "2": "The books fell on the table with a loud thump."
+            },
+            "description": ""
+        },
+        "Assonance": {
+            "definition": "a figure of speech in which the repetition of similar vowel sounds takes place in two or more words in proximity to each other within a line of poetry or prose.",
+            "example": {
+                "1": "He fell asleep under the cherry tree.",
+                "2": "“The rain in Spain stays mainly in the plain” - musical “My Fair Lady”"
+            },
+            "description": ""
+        },
+        "Consonance": {
+            "definition": "a figure of speech that refers to the repetition of the same consonant sounds in a line of text.",
+            "example": {
+                "1": "He came a little later than the others.",
+                "2": "“Don’t worry, it’s just a matter of time.”"
+            },
+            "description": ""
+        },
+        "Alliteration": {
+            "definition": "a literary device that reflects repetition in two or more nearby words of initial consonant sounds.",
+            "example": {
+                "1": "He drove like a beast on the rocky road.",
+                "2": "“Here’s a quick question- Who are you?”"
+            },
+            "description": ""
+        },
+        "Pun": {
+            "definition": "a figure of speech that involve words with similar or identical sounds but with different meanings.",
+            "example": {
+                "1": "Her cat is near the computer to keep an eye on the mouse.",
+                "2": "“This vacuum cleaner sucks.”"
+            },
+            "description": ""
+        },
+        "Rhyme": {
+            "definition": "a literary device in which identical or similar concluding syllables in different words are repeated.",
+            "example": {
+                "1": "“Hickory-dickory-dock, the mouse ran up the clock”",
+                "2": "Evan is my nearest and dearest friend."
+            },
+            "description": ""
+        }
+    }
+}
